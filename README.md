@@ -1,5 +1,5 @@
 # Lista-de-repositorios
-Para poder revisar los repositorios contacteme mediante Issues
+Para poder revisar los repositorios contacteme mediante Issues.
 
 Lista de los repositorios disponibles: 
   Brebe descrición (Nombre del repositorio) (Modalidad)
