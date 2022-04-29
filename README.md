@@ -1,6 +1,6 @@
 # Lista-de-repositorios
 Para poder revisar los repositorios contacteme mediante Issues.
-Para poder ver el archivo correctamente pulse el boton <>.
+Si tiene problemas visualizando el README.md tambien esta disponible en .txt.
 
 Lista de los repositorios disponibles: 
   Brebe descrición (Nombre del repositorio) (Modalidad)
@@ -13,7 +13,10 @@ Lista de los repositorios disponibles:
     -Algoritmo A* (Aestrella) (individual)
     -Divide y venceras (divide-and-conuqer) (Individual)
     -Algoritmo gredy (Gredy) (Individual)
+    -Repositorio varios proyectos de algorimos y estructuras de datos (AED) (Varios en grupos, varios individual)
     -Proyecto para manejar bases de datos desde un programa java (base-datos-series) (Grupo)
+    -Programación concurrente con hilos, mutex y condiciones (bancoCC) (Grupo)
+    -Programación concurrente con paso de mensajes (bancoSCP) (Grupo)
     -Juego del buscaminas más IA (buscaminas) (Proyecto personal)
   -C:
     -Shell para sistema unix (minishell) (Individual)
@@ -27,4 +30,3 @@ Lista de los repositorios disponibles:
       -Driver de entrada salida por interrupciones (Driver-ensamblador-MC68000) (Grupo)
     -MC88110
       -Filtro para pixeles en imagenes en ensambaldor MC88110 (filtror21) (Grupo)
-        
